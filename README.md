@@ -1,2 +1,3 @@
 # Lucas-Lambert-HTML-2D
-Lucas Lambert 2 ano D 
+Lucas Louzada Lambert 2 ano D - Etec Rosa Perrone Scavone
+
